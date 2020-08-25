@@ -7,13 +7,11 @@
 
 <script>
 import DragAndDrop from "./components/DragAndDrop";
-import DragGroups from "./components/DragGroups";
 
 export default {
     name: "app",
     components: {
-        DragAndDrop,
-        DragGroups,
+        DragAndDrop
     },
 };
 </script>
